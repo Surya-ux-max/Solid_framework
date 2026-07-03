@@ -9,9 +9,18 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "solid-js": "^1.9.12"
+    "@motionone/solid": "^10.16.4",
+    "@tanstack/solid-query": "^5.96.2",
+    "@tanstack/solid-virtual": "^3.13.23",
+    "gsap": "^3.14.2",
+    "solid-js": "^1.9.12",
+    "solid-motionone": "^1.0.4"
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "^4.2.2",
+    "autoprefixer": "^10.4.27",
+    "postcss": "^8.5.9",
+    "tailwindcss": "^4.2.2",
     "vite": "^8.0.4",
     "vite-plugin-solid": "^2.11.12"
   }
